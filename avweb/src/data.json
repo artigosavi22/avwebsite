@@ -1,0 +1,16 @@
+[
+    {
+        "albumId": 1,
+        "id": 1,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "/banner slider1.jpg",
+        "thumbnailUrl": "/banner slider1-thumbnail.jpg"
+    },
+    {
+        "albumId": 1,
+        "id": 2,
+        "title": "reprehenderit est deserunt velit ipsam",
+        "url": "/slider21.jpg",
+        "thumbnailUrl": "/slider21-thumbnail.jpg"
+    }
+]
